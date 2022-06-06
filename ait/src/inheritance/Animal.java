@@ -1,4 +1,4 @@
-package ait;
+package inheritance;
 
 class Animal{  
 void eat(){
